@@ -47,8 +47,3 @@
 - Gmail邮箱   https://mail.google.com/
 - ~~Google+~~（已停止个人用户服务）     https://plus.google.com/
 
-## Update log
-
-### 2019.05.18
-
-Update the key for v2.3.0
